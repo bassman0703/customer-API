@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 20,
+      "clientNumber": 43532,
+      "firstName": "dsfgsd",
+      "lastName": "fhdfgh",
+      "gender": "MALE",
+      "personalNumber": 245475782345,
+      "phoneNumber": 555773345,
+      "legalCountry": "fdgh",
+      "legalCity": "sf",
+      "legalAddress": "sadf",
+      "actualCountry": "fgh",
+      "actualCity": "sadf",
+      "actualAddress": "hgjfgh",
+      "createdAt": "2024-01-31T22:54:08.191Z"
+    },
+    {
+      "id": 2,
+      "clientNumber": "12345",
+      "firstName": "davit",
+      "lastName": "jmukhadze",
+      "gender": "MALE",
+      "personalNumber": "12345676543",
+      "phoneNumber": "598988238",
+      "legalCountry": "saqartvelo",
+      "legalCity": "tbiliisi",
+      "legalAddress": "test",
+      "actualCountry": "saqartvelo",
+      "actualCity": "tbiiliisi",
+      "actualAddress": "test1",
+      "avatar": null,
+      "createdAt": "2024-02-02T00:41:32.749Z"
+    }
+  ],
+  "accounts": [
+    {
+      "accountNumber": "3242342344444",
+      "clientNumber": 4233333,
+      "currency": "USD",
+      "accountType": "CURRENT",
+      "accountStatus": "ACTIVE",
+      "id": "9109",
+      "userId": 20,
+      "user": {
+        "id": 20,
+        "clientNumber": 43532,
+        "firstName": "dsfgsd",
+        "lastName": "fhdfgh",
+        "gender": "MALE",
+        "personalNumber": 245475782345,
+        "phoneNumber": 555773345,
+        "legalCountry": "fdgh",
+        "legalCity": "sf",
+        "legalAddress": "sadf",
+        "actualCountry": "fgh",
+        "actualCity": "sadf",
+        "actualAddress": "hgjfgh",
+        "createdAt": "2024-01-31T22:54:08.191Z",
+        "fullName": "dsfgsd fhdfgh"
+      },
+      "currencies": [
+        "USD"
+      ]
+    }
+  ]
+}
